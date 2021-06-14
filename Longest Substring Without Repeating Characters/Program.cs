@@ -3,13 +3,14 @@ using System.Collections.Generic;
 
 namespace Longest_Substring_Without_Repeating_Characters
 {
+    // test
     class Program
     {
         static void Main(string[] args)
         {
             string s = "tmmzuxt";
             Console.WriteLine(LengthOfLongestSubstringWORepeatingChars(s));
-            Console.WriteLine(LengthOfLongestSubstring(s));
+            //Console.WriteLine(LengthOfLongestSubstring(s));
         }
 
 
